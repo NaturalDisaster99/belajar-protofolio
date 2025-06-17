@@ -2,16 +2,17 @@
     {
         "company": "PT PLN Indonesia Power UBP Semarang",
 		"logo":"images/polines-logo.png",
-        "position": "Internship",
+        "position": "Student Internship",
         "year": "2024 - 2025",
         "description": "A motivated Electrical Engineering diploma student from Politeknik Negeri Semarang, currently seeking internship opportunities to apply practical knowledge in embedded systems, electronics, and control engineering. Experienced in participating in academic projects and student organization events."
     },
 	{
-        "company": "",
-		"logo":"images/umn-logo.png",
-        "position": "Computer Engineering Lecturer",
-        "year": "2019 - 2021",
-        "description": "As a Lecturer in Computer Engineering, I am involved in the end-to-end pedagogy process, including updating lesson plans based on Outcome-Based Education (OBE) and current issues, developing interactive and easy-to-understand lecture materials, and assessing student outcomes. I am actively engaged in research and community outreach, with several publications and intellectual property to my name. Appointed as the Research Coordinator in the Faculty of Engineering and Informatics under the Dean, I organize regular meetings (FTI Research Talk), coaching clinics for publication and grant writing, manage UMN journals, and collaborate with external parties to promote research. Additionally, I actively contribute to the promotion and marketing of UMN to prospective students, participate in curriculum development, and handle administrative tasks related to accreditation and quality improvement. I have also successfully led several projects funded by both internal and external sources."
+        "company": "State Polytechnic of Semarang",
+		"logo":"images/Polines-logo.png",
+        "position": "Active Student",
+        "year": "2024",
+        "description": " Supervised by Mr. Dadi, S.T., M.Eng., a lecturer at State Polytechnic of Semarang, I developed an Arduino-based automatic clothes drying system that detects rain and sunlight using sensors to control a motorized rack. The project involved circuit design, programming, and sensor integration, showcasing practical skills in embedded systems and automation.
+"
     },
     {
         "company": "Epson Indonesia Industry",
