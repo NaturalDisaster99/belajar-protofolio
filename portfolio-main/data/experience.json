@@ -1,16 +1,9 @@
 [
     {
         "company": "PT PLN Indonesia Power UBP Semarang",
-		"logo":"images/polines-logo.png",
+		"logo":"images/ip.jpg",
         "position": "Student Internship",
         "year": "2024 - 2025",
         "description": "A motivated Electrical Engineering diploma student from State Polytechnic of Semarang, currently seeking internship opportunities to apply practical knowledge in embedded systems, electronics, and control engineering. Experienced in participating in academic projects and student organization events."
-    },
-	{
-        "company": "State Polytechnic of Semarang",
-		"logo":"images/Polines-logo.png",
-        "position": "Active Student",
-        "year": "2024",
-        "description": "Supervised by Mr. Dadi, S.T., M.Eng., a lecturer at State Polytechnic of Semarang, I developed an Arduino-based automatic clothes drying system that detects rain and sunlight using sensors to control a motorized rack. The project involved circuit design, programming, and sensor integration, showcasing practical skills in embedded systems and automation."
     }
 ]
