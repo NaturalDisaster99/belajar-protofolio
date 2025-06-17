@@ -24,12 +24,12 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-	{"name": "Team Work", "icon": "fas fa-male-person"},
+	{"name": "Team Work", "icon": "fas fa-person"},
 	{"name": "Leadership", "icon": "fas fa-check"},
 	{"name": "Communication", "icon": "fas fa-language"},
-        {"name": "Internet Of Things", "icon": "fas fa-wifi"},
-        {"name": "PLC", "icon": "fas fa-p"},
+    {"name": "Internet Of Things", "icon": "fas fa-wifi"},
+    {"name": "PLC", "icon": "fas fa-p"},
 	{"name": "Project Management", "icon": "fas fa-list-check"},
-	{"name": "Problem Solving Skill", "icon": "fas fa-pen"},
+	{"name": "Problem Solving Skill", "icon": "fas fa-pen"}
     ]
 }
