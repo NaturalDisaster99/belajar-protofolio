@@ -24,14 +24,12 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse"},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip"},
-        {"name": "Internet of Things", "icon": "fas fa-wifi"},
-        {"name": "Hardware Design", "icon": "fas fa-desktop"},
-	{"name": "Hardware Programming", "icon": "fas fa-c"},
-        {"name": "Web Programming", "icon": "fab fa-js"},
+	{"name": "Team Work", "icon": "fas fa-male-person"},
+	{"name": "Leadership", "icon": "fas fa-check"},
+	{"name": "Communication", "icon": "fas fa-language"},
+        {"name": "Internet Of Things", "icon": "fas fa-wifi"},
+        {"name": "PLC", "icon": "fas fa-p"},
 	{"name": "Project Management", "icon": "fas fa-list-check"},
-	{"name": "Academic Writing", "icon": "fas fa-pen"},
-	{"name": "Foreign Languages", "icon": "fas fa-language"}
+	{"name": "Problem Solving Skill", "icon": "fas fa-pen"},
     ]
 }
