@@ -1,0 +1,35 @@
+{
+    "name": "Mochamad Cyan A. - Associate's Degree in Electrical Engineering at Politeknik Negeri Semarang",
+    "description": "Mochamad Cyan A. is an Associate’s Degree student in Electrical Engineering at Politeknik Negeri Semarang. Passionate about electronics, automation, and embedded systems, with strong skills in circuit design, microcontroller programming (Arduino), and sensor integration. Actively participates in student organization events and hands-on projects. Successfully developed an automatic clothes drying system that responds to rain and sunlight using sensors and motor control, under the guidance of Mr. Dadi. Demonstrates a solid understanding of real-world applications in electrical systems and is eager to contribute through internships or junior engineering roles in relevant industries.",
+    "profileImage": "images/fotogue.png",
+    "email": "mochamadcyan@gmail.com",
+    "phone": "+62 (857) 120-30045",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://https://linkedin.com/in/cyan-arundata"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/NaturalDisaster99"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/cyandtr/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "CVMochamadCyan (1).pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+	{"name": "Team Work", "icon": "fas fa-person"},
+	{"name": "Leadership", "icon": "fas fa-check"},
+	{"name": "Communication", "icon": "fas fa-language"},
+    {"name": "Internet Of Things", "icon": "fas fa-wifi"},
+    {"name": "PLC", "icon": "fas fa-p"},
+	{"name": "Project Management", "icon": "fas fa-list-check"},
+	{"name": "Problem Solving Skill", "icon": "fas fa-pen"}
+    ]
+}

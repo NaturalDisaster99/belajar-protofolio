@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMA N 1 Semarang",
+		"logo": "images/sma1.png",
+        "major": "Student",
+        "year": "2019 - 2022",
+        "description": "Completed the Science Program with a focus on mathematics, physics, and chemistry. Gained strong analytical and problem-solving skills and actively participated in academic and extracurricular activities."
+    },
+    {
+        "university": "State Polytechnic of Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Associate's Degree",
+        "year": "2022 - 2025",
+        "description": "A highly motivated Associate's Degree in Electrical Engineering at Politeknik Negeri Semarang, with a GPA of 3.9 out of 4. Actively involved in hands-on electronics projects and student association events within the department."
+    }
+]
