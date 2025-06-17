@@ -4,7 +4,7 @@
 		"logo":"images/polines-logo.png",
         "position": "Student Internship",
         "year": "2024 - 2025",
-        "description": "A motivated Electrical Engineering diploma student from Politeknik Negeri Semarang, currently seeking internship opportunities to apply practical knowledge in embedded systems, electronics, and control engineering. Experienced in participating in academic projects and student organization events."
+        "description": "A motivated Electrical Engineering diploma student from State Polytechnic of Semarang, currently seeking internship opportunities to apply practical knowledge in embedded systems, electronics, and control engineering. Experienced in participating in academic projects and student organization events."
     },
 	{
         "company": "State Polytechnic of Semarang",
@@ -12,19 +12,5 @@
         "position": "Active Student",
         "year": "2024",
         "description": "Supervised by Mr. Dadi, S.T., M.Eng., a lecturer at State Polytechnic of Semarang, I developed an Arduino-based automatic clothes drying system that detects rain and sunlight using sensors to control a motorized rack. The project involved circuit design, programming, and sensor integration, showcasing practical skills in embedded systems and automation."
-    },
-    {
-        "company": "Epson Indonesia Industry",
-		"logo":"images/epson-logo.png",
-        "position": "Failure Analyst",
-        "year": "2015 - 2016",
-        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
-    },
-	{
-        "company": "Lembaga Ilmu Pengetahuan Indonesia",
-		"logo":"images/lipi-logo.png",
-        "position": "Automation",
-        "year": "2014",
-        "description": "I have built an embedded system for water sampling and designed and implemented a wireless sensor network for monitoring shrimp fields. Additionally, I authored an academic paper for international publication titled [A wireless sensor network platform for shrimp farm monitoring](https://ieee.org/abstract/document/7237850), which has received 40 citations."
     }
 ]
