@@ -2,11 +2,20 @@
     {
         "title": "Unit 4 Scan Barcode and Rack Cracking Modul Production System",
         "year": "2025",
-        "fund": "Rp 40.000",
-        "partner": "Clean Water Initiative",
+        "fund": "Rp 40.000.000",
+        "partner": "Group Project",
         "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "description": "Designed a barcode scanning and rack tracking system as a final project for the Production System module, aimed at automating item identification and placement using microcontrollers and barcode readers, showcasing skills in embedded systems and industrial automation.",
+        "image": "images/kmps.jpeg"
+    },
+    { 
+        "title": "Automatic Clothes Drying System",
+        "year": "2024",
+        "fund": "Rp 100.000",
+        "partner": "Partner Project",
+        "role": "Lead Engineer",
+        "description": "Supervised by Mr. Dadi, I developed an Arduino-based smart clothes drying system that uses sensors and motorized mechanisms to automatically respond to weather conditions, demonstrating skills in embedded systems and automation.",
+        "image": "images/jemuran.jpeg" 
     }
 ]
+  
